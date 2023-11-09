@@ -26,7 +26,7 @@ function startTimer(){
                 milliseconds = 0
             }
 
-            if(minutes === 60){
+            if(seconds === 60){
                 minutes++
                 seconds = 0
             }
